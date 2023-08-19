@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193941225380",
+    "project_id": "let-s-shop-ee26b",
+    "storage_bucket": "let-s-shop-ee26b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193941225380:android:2b36ebf34c99b530220b31",
+        "android_client_info": {
+          "package_name": "com.example.lets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193941225380-1n9p4girlo5gosuiviod92fck33nkk4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW-U7HeqHBfH-PFucorMgU6PK4Ey_DGZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193941225380-1n9p4girlo5gosuiviod92fck33nkk4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
